@@ -1,0 +1,6 @@
+gateway:
+  code: "qwe123qwe"
+  path: "/gateway/hello"
+  method: "post"
+  uri: 'http://127.0.0.1:8080'
+  token: "adfsdds"

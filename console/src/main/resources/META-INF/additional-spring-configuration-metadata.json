@@ -1,0 +1,13 @@
+{
+    "properties": [
+        {
+            "name": "datahub.redis.gateway.apiService.quota.key",
+            "type": "java.lang.String",
+            "description": "Description for datahub.redis.gateway.apiService.quota.key."
+        },
+        {
+            "name": "datahub.redis.gateway.appkey.usedcount.key",
+            "type": "java.lang.String",
+            "description": "Description for datahub.redis.gateway.appkey.usedcount.key."
+        }
+    ] }
